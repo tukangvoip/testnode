@@ -1,7 +1,7 @@
 <?php 
 class cURL { 
 var $headers;
-var $coba; 
+var $coba123; 
 var $user_agent; 
 var $compression; 
 var $cookie_file; 
